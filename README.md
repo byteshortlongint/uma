@@ -1,2 +1,2 @@
-# uma
+# uma.github.io
 umaumauma
